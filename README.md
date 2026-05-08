@@ -10,5 +10,4 @@ University project apart of GEO4306 (Applied GIS for Science and Engineers) focu
 ## Files Included
 - Final Project report (presentation)
 - Maps and figures
-- ArcGIS Open Data
 - Alberta Energy Regulator Spatial Data
